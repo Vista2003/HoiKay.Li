@@ -1,3 +1,2 @@
 # HoiKay.Li
-Personal website
-Currently under construction 
+Personal website that's currently under construction 
