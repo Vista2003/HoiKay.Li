@@ -8,6 +8,8 @@ After clean installing Windows Server 2016 these days you may notice that Window
 You'll need to manually download and install the following updates in this order:
 1. The latest Servicing Stack update
 2. The latest Cumulative update
+
+
 After installing these two updates, Windows Update should now work correctly though it will be [slower than Windows 10 or Server 2019's update](https://borncity.com/win/2019/02/20/windows-server-2016-empirical-proof-of-slow-update-installs/).
 
 
