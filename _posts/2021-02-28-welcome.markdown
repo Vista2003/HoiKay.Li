@@ -2,6 +2,6 @@
 layout: post
 title: "Welcome to my website"
 date: 2021-02-28
-categoties: General
+categories: General
 ---
 Welcome to my website and if you're reading this on the internet, it means that this thing is working! :)
