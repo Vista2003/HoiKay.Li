@@ -27,7 +27,11 @@ url: "https://hoikay.li" # the base hostname & protocol for your site, e.g. http
 
 
 # Build settings
+<<<<<<< HEAD
 theme: minima
+=======
+theme: jekyll-theme-hacker
+>>>>>>> parent of 7547d02 (Set theme jekyll-theme-midnight)
 plugins:
   - jekyll-feed
   - jekyll-sitemap
