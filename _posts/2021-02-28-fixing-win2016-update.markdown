@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fixing Windows Server 2016 update after clean install"
-date: 2021-02-28
+date: 2021-02-28 19:00
 categories: Windows Server
 ---
 After clean installing Windows Server 2016 these days you may notice that Windows Update would hang and fail, this post just shows my fix for this issue.
