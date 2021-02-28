@@ -6,4 +6,4 @@ categories: BECCA
 permalink: /becca/
 ---
 BECCAMAN
-![BECCAMAN]({{site.github.url}}/assets/img/BECCA.jpeg)
+![BECCAMAN]({{site.url}}/assets/img/BECCA.jpeg)
