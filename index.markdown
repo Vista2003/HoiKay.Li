@@ -4,4 +4,4 @@
 
 layout: home
 ---
-A random blog in the sea of blog on the internet.
+A random blog in the sea of blogs on the internet.
