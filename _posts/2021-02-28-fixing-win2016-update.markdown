@@ -14,4 +14,5 @@ After installing these two updates, Windows Update should now work correctly tho
 
 
 
+
 You can download the Servicing Stack update [here](https://www.catalog.update.microsoft.com/Search.aspx?q=Servicing%20Stack) and the latest Cumulative update [here](https://support.microsoft.com/en-us/topic/windows-10-and-windows-server-2016-update-history-4acfbc84-a290-1b54-536a-1c0430e9f3fd).
