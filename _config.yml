@@ -1,0 +1,7 @@
+theme: jekyll-theme-hacker
+title: Welcome to HoiKay.Li
+description: A personal website that I have no idea what I'm going to do with
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
