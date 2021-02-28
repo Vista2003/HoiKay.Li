@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Just another blog on the internet. Honestly, I can't really think of what else to put in here :/
+Just a random blog that I'm running.
+I don't know what else to put here :/
+If you do know what to put here and have my contact details, let me know!

@@ -4,6 +4,4 @@
 
 layout: home
 ---
-# Home
-## Welcome to my website
-Right now, I'm still trying to learn Jekyll so the website may change (and or break) quite often but anyways, welcome to my site!
+A random blog in the sea of blog on the internet.

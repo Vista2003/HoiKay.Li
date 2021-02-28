@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to my website
+title: "Welcome to my website"
 date: 2021-02-28
-categories: general
+categoties: General
 ---
-Welcome to my website and if you're reading this on the internet that means that this is working!
+Welcome to my website and if you're reading this on the internet, it means that this thing is working! :)

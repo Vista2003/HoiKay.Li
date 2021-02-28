@@ -21,17 +21,13 @@
 title: Hoi Kay's website
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another blog in the sea of the internet about basically anything that I come up with.
+  Just another blog in the sea of blogs on the internet.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hoikay.li" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
-<<<<<<< HEAD
 theme: minima
-=======
-theme: jekyll-theme-hacker
->>>>>>> parent of 7547d02 (Set theme jekyll-theme-midnight)
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -57,4 +53,3 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 permalink: /:categories/:year/:month/:day/:title/
-
