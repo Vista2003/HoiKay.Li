@@ -1,7 +1,48 @@
 ---
 layout: post
-title: "Morgan, here's a fireplace"
+title: "Gigabyte RTX 2060 Windforce OC – Review (Guest)"
 date: 2021-03-05
-categories: General
+categories: Guest MK Reviews
 ---
-![RTX2060]({{site.github.url}}/assets/img/Fireplace.jpg)
+*This blog entry has been written by a guest and may not represent my personal views*<br>
+By MK
+![box]({{site.github.url}}/assets/img/RTX2060/box.jpg)
+Over 2 years ago, the RTX 2000 series was launched, introducing Ray Tracing and, as to be expected, several performance increases over the GTX 1000 series. 
+
+I previously had an MSI GTX 1060 6GB Gaming X installed in my rig since June 2017. It was a birthday present from when I was a wee lad and wasn’t able to splash out on high-end hardware. It was a major upgrade over my Gigabyte 960 4GB Gaming, which was starting to struggle in games. Although at the time, my GPU was paired up with an FX 8350, I upgraded that the same year at Christmas to an i5 8600K, which I still have installed to this day.
+
+Anyway, I had my trusty 1060 6GB installed right up until the back end of February this year, being very pleased with how it held up over the years for the price tag. However, towards mid-January time, I decided it was time to upgrade due to the card beginning to struggle in games. However, I discovered the GPU market was in a rather, let’s say, dry. I searched tirelessly for weeks and weeks, looking at several, foolishly overpriced GPUs on eBay and also having the site ‘Stock Informer’ open on a tab every time I was gaming or surfing the web, as well as also running on my phone whilst I was at work during the day. I intended to grab hold of a 3060ti or 3070, as I want to play fairly demanding games at 1080p ultra. I also considered a second hand or new old stock 2060, 2060 Super, 2070 and 2070 Super, as the cards I listed are very capable of meeting my demands. 
+
+After tirelessly opening every alert Stock Informer dished out and constantly missing out to those Bots, I gave up the search for a reasonably priced 3060ti or 3070 and resorted to eBay, focusing on used or new old stock 2060, 2060 Super, 2070 or 2070 Super. I finally found a reasonably priced ‘new old stock’ 2060. It was the Gigabyte 2060 Windforce OC 6GB, one I had seen several times listed on eBay, usually at top rates. It was from a trusted seller, with good positive feedback and at a reasonable price. I offered him £30 below the asking price, and below and behold, he accepted instantly and I paid straight away. He was pleased by my prompt payment and sent it out ASAP. I received it 4 days later, thanks to me swiping it on Saturday and Royal Mail being slightly backlogged at the moment. Upon opening the parcel, I was pleased to discover it was indeed brand new as described and the seller had kept his promise. I swiftly installed it, opened GPU-Z, revealing it was indeed a legitimate product.
+
+This particular model was one of the more affordable cards when the 2060 was launched and sold in high volumes. However, it soon developed a fairly poor reputation for being hot, suffering from coil whine and being poorly assembled. I knew this before purchasing, hoping my rig’s strong cooling would lessen the effects. I had also read numerous good reviews which prompted those who bought the card to tweak the fan settings in Afterburner. The reviews also mentioned it was a fine card and they experienced no coil whine. Despite the overall good reviews, but also a fair share of negative reviews. I concluded that as human beings, we are more likely to be dissatisfied and disappointed when something doesn’t meet our expectations, and the easiest way to vent would be to complain about it on the Amazon reviews and have it swapped. We often look more closely at negatives than we do the positives, hence why I decided that with it being a cheaper model, there would always be some people disappointed and always a few people who got unlucky with the quality control. 
+
+![openedbox]({{site.github.url}}/assets/img/RTX2060/openbox.jpg)
+The graphics card in the box
+
+![1060]({{site.github.url}}/assets/img/RTX2060/1060.jpg)
+My old MSI GTX 1060
+
+![2060]({{site.github.url}}/assets/img/RTX2060/2060.jpg)
+My new Gigabyte RTX 2060 <br>
+
+After installing the GPU, I was slightly disappointed with how it looked, especially when I had just upgraded from an MSI card that fitted very well into my rigs design of being black and red. The size of the bloody thing surprised me the most. It was minuscule compared to my big, bulky, but rather attractive 1060. Despite the lack of good looks, I wanted a card I could use as opposed to looking fancy for the time being, so I got over this, wiped my existing drivers, opened MSI Afterburner and checked out the temperatures (Measured in degrees Celsius):
+Idling without fans running: 40-45
+Idling with 43% fan speed: 33
+In R6S maxed out with fans running at nearly 90%: 72-75
+
+Wow. Firstly, the gaming performance is superb. Secondly, this is vastly hotter than my old 1060 6GB, which got nowhere near 70. After doing more research, I was shocked at how lucky I was, with most people experiencing temperatures closer to the 83 mark.
+
+With my intention of upgrading to a more improved card in a year or two, I decided that I wasn’t entirely fussed, and at the time being, as long as it doesn’t start thermal throttling and can run games maxed out at 1080p smoothly, I was content with the card.
+
+However, the other day I was in an intense, sweaty ranked match on Rainbow Six Siege and briefly tabbed out to check the web quickly. To my shock, Afterburner showed it had reached 85 degrees Celsius at some point, but not for long. It had soon reduced back to the 75 degrees Celsius average. However, despite this temperature, I did not experience any noticeable thermal throttling. Perhaps it was a very brief spike? I’m not sure, but I doubt these cards will last the test of time. I’m already back to browsing eBay, hoping I eventually can grab an MSI, EVGA or Asus card. I’m starting to weigh up storing my heater away and cutting back on my central heating, as it appears this card does a better job than both my Dyson heater/fan and my boiler!
+Overall, I’m content with this card, as long as it doesn’t ever start averaging beyond 80 degrees Celsius.
+
+
+Scores: <br>
+Gaming: 8/10 <br>
+Overclocking: 5/10 <br>
+Workstation: 6/10 <br>
+Cooling: 1/10 <br>
+Looks: 4/10 <br>
+**Overall: 4.8/10** <br>
