@@ -12,19 +12,14 @@ After going through the setup and configuring the rest correctly, reboot and att
 
 Once it has rebooted, open an SSH session with the Edgerouter and enter the following commands:
 
-
-<code> configure </code>
-
-<code> set interfaces ethternet eth0 ppoe 0 ipv6 enable </code>
-
-<code>set protocols static interface-route6 ::/0 next-hop-interface pppoe0 </code>
-
-<code>commit</code>
-
-<code>save</code>
-
-<code> exit </code>
-
+```
+configure 
+set interfaces ethternet eth0 ppoe 0 ipv6 enable 
+set protocols static interface-route6 ::/0 next-hop-interface pppoe0 
+commit 
+save
+exit 
+```
 After that IPv6 should work without the need to reboot.
 
 Have fun browsing with IPv6. You can check if IPv6 is working by clicking [here](https://ipv6-test.com/).
