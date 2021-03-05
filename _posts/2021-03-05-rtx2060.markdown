@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Morgan, here's a fireplace"
+date: 2021-03-05
+categories: General
+---
+![RTX2060]({{site.url}}/assets/img/fireplace.jpg)
