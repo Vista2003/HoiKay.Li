@@ -4,4 +4,4 @@
 
 layout: home
 ---
-A random blog in the sea of blogs on the internet.
+Welcome to my tiny part of the internet, I hope you enjoy your stay!
