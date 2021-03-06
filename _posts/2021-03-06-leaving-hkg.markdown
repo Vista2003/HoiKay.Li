@@ -12,7 +12,7 @@ I’m planning to stick around until Monday and after Monday, I will still be av
 
 The bot will stick around for longer and be up until the 13th of March.
 
-I will you all well moving forward.<br>
+I wish you all well moving forward.<br>
 Hoi Kay<br>
 
 
