@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to configure IPv6 on Edgerouter X on Zen UK"
+title: "How to configure IPv6 on the Edgerouter X on Zen UK"
 date: 2021-03-05
 categories: Networking
 ---
