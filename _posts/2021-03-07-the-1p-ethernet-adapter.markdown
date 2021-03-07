@@ -3,6 +3,7 @@ layout: post
 title: "The 1p USB to Ethernet adapter"
 date: 2021-03-07
 categories: Networking
+description: Yes, you have read that correctly, a 1p USB to ethernet adapter
 ---
 ![listing screenshot]({{site.github.url}}/assets/img/1p Ethernet adapter/listing screenshot.png)
 Yes, you read that correctly. A USB to ethernet adapter that costs a penny shipped and out of curiosity, I did buy one.

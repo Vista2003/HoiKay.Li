@@ -3,6 +3,7 @@ layout: post
 title: "Gigabyte RTX 2060 Windforce OC – Review (Guest)"
 date: 2021-03-05
 categories: Guest MK Reviews
+description: Guest review of the Gigabyte RTX 2060 Windforce OC
 ---
 *This blog entry has been written by a guest and may not represent my personal views*<br>
 By MK
