@@ -24,3 +24,4 @@ exit
 After that IPv6 should work without the need to reboot.
 
 Have fun browsing with IPv6. You can check if IPv6 is working by clicking [here](https://ipv6-test.com/).
+![ipv6test]({{site.github.url}}/assets/img/ipv6/ipv6test.png)
