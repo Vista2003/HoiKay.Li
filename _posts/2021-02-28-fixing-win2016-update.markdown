@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fixing Windows Server 2016 update after a clean install"
+title: "Fixing stuck Windows Server 2016 update after install"
 date: 2021-02-28 19:00
 categories: Windows Server
 description: Fixing Windows Update on Server 2016 after a clean install
