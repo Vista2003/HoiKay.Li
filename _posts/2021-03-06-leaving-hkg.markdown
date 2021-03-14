@@ -10,7 +10,7 @@ I’ve been considering leaving for the last few months but I stayed to aid with
 
 I’m planning to stick around until Monday and after Monday, I will still be available to be contacted over Signal, Line or Telegram (Signal is preferred) though I will no longer be part of the group.<br>
 
-The bot will stick around for longer and be up until the 13th of March.
+The bot will stick around for longer and be up until at least the 13th of March.
 
 I wish you all well moving forward.<br>
 Hoi Kay<br>
