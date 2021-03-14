@@ -4,6 +4,7 @@ title: "Changing the IPv6 DNS on the EdgeRouter X"
 date: 2021-03-13
 categories: Networking
 description: Tutorial on changing the IPv6 DNS on EdgeRouter X
+published: false
 ---
 If you have an EdgeRouter and you want to change the DNS for IPv6, it can be a bit of a pain as it appears as no one seems to know properly how to change it for IPv6. Some suggest adding it to your name server list but if SLAAC got an IPv6 DNS from your ISP then that isn’t going to do anything and the no-dns flag in my experience ends up disabling IPv6. The instructions here are intended for the EdgeRouter X though it can work with other EdgeRouters without a switch when you replace the term switch with the appropriate ethernet port. <br>
 
