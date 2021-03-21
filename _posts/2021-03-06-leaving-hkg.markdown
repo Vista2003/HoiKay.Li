@@ -3,6 +3,7 @@ layout: post
 title: "My resignation from The Resurrgence community"
 date: 2021-03-06
 categories: General
+author: Hoi Kay
 ---
 After a long consideration during my break, I have decided that I no longer wish to continue my role as a member of this group. My reasoning to do so stems from what I have already explained in my statement about temporarily stepping back from my administrative roles, now I believe it’s time to make that permanent.  <br>
 My reasoning for leaving is simple, I believe that the “golden era” of this group has passed and that the feeling of the community has gone. Sure, the people are still here but the sense of community has gone also it feels like an echo chamber which seems to be very restrictive on the subjects that can be discussed.

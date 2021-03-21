@@ -4,9 +4,9 @@ title: "Gigabyte RTX 2060 Windforce OC – Review (Guest)"
 date: 2021-03-05
 categories: Guest MK Reviews
 description: Guest review of the Gigabyte RTX 2060 Windforce OC
+author: Guest - MK
 ---
 *This blog entry has been written by a guest and may not represent my personal views*<br>
-By MK
 ![box]({{site.github.url}}/assets/img/RTX2060/box.jpg)
 Over 2 years ago, the RTX 2000 series was launched, introducing Ray Tracing and, as to be expected, several performance increases over the GTX 1000 series. 
 
