@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to my tiny part of the internet, I hope you enjoy your stay!
+Welcome to my tiny part of the internet, I hope you enjoy your stay! <br>
