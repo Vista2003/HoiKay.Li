@@ -28,3 +28,5 @@ The one listed on eBay showed the same information as the one I’ve bought.
 I've also checked the manufacturer's website and it's no longer listed so I  don't know what I've bought. 😅
 
 I've checked my card's transaction history and yes AliExpress only charged 1p, we'll see if it turns up in 30 - 50 days.
+
+<b> UPDATE: It has now arrived! You can read the review [here](https://hoikay.li/networking/review/2021/03/23/1p-ethernet-adapter-review/) </b>
