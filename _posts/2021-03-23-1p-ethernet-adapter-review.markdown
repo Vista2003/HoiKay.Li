@@ -9,7 +9,7 @@ author: Hoi Kay
 Well, it came early, and it just arrived like this with no driver CDs or invoice papers. <br>
 First impressions are that it feels light though that’s expected for something so cheap. 
 
-Now time to plug it into a computer!
+Now, let's plug it into a computer!
 
 # Windows 10 64 Bit troubles
 Plugging the adapter into my trusty ThinkPad X230 Tablet revealed that Windows 10 didn’t have the drivers for it to be plug and play. Device Manager returned an error 28 (no driver) when it was plugged in and it was identifying it as a “USB 2.0 10/100M Ethernet Adaptor”.
