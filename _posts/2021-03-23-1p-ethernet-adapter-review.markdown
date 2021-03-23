@@ -5,6 +5,8 @@ categories: Networking Review
 description: A review of the unbelievably cheap ethernet adapter
 author: Hoi Kay
 ---
+This post is a two-parter, if you haven't read the previous post click [here](https://hoikay.li/networking/2021/03/07/the-1p-ethernet-adapter/).
+
 ![The adapter]({{site.github.url}}/assets/img/1p ethernet adapter review/item.jpg)
 Well, it came early, and it just arrived like this with no driver CDs or invoice papers. <br>
 First impressions are that it feels light though that’s expected for something so cheap. 
