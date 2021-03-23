@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "1p Ethernet adapter - Review"
+title: "The 1p Ethernet adapter review"
 categories: Networking Review
-description: Yes, you have read that correctly, a 1p USB to ethernet adapter
+description: A review of the unbelievably cheap ethernet adapter
 author: Hoi Kay
 ---
 ![The adapter]({{site.github.url}}/assets/img/1p ethernet adapter review/item.jpg)
