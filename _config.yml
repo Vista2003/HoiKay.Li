@@ -57,4 +57,5 @@ plugins:
 #   - vendor/ruby/
 permalink: /:categories/:year/:month/:day/:title/
 timezone: GB
-is_project_page: false
+github:
+  is_project_page: false
