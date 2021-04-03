@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The 2021 Windows Media Center experience"
+categories: Windows WMC
+description: A look at Microsoft's discontinued Media Centre program
+author: Hoi Kay
+---
+*2009 called and it wanted to get its media centre software back* <br>
+Yeah, I know it's 2021 so why am I looking at Windows Media Centre? <br>
+
+It was more out of curiosity of how much of a husk it is now since Microsoft plugged the plug on its electronic program guide (EPG) in 2020 around the same time as Windows 7’s end of support. <br>
+
+In this post, we’ll be using Media Centre on Windows 10, an unofficial method that adds Media Centre and its required dependencies into Windows 10. This is not a supported way of getting Media Centre on Windows 10 because there isn’t one. Media Centre support was dropped in Windows 10 due to the lack of users according to a (now former) Microsoft employee. 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We can confirm that due to decreased usage, Windows Media Center will not be part of Windows 10.</p>&mdash; Gabriel Aul (@GabeAul) <a href="https://twitter.com/GabeAul/status/595325485309005824?ref_src=twsrc%5Etfw">May 4, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+There has been a community trying to maintain Windows Media Centre on modern versions of Windows 10, you can find them at [the Green Button forum](https://www.thegreenbutton.tv/forums/index.php) (the Green button is in reference to the green Windows logo that was used as the Windows Media Centre logo.) 
+
+
+After downloading WMC 8.8.5 on my 64 bit Windows 10 20H2 machine, it came with a few .cmd files that you run to install it or uninstall it from your system.
+![files]({{site.github.url}}/assets/img/WMC/files.png)
+
+After running the InstallerBLUE.cmd file, BLUE is in reference to the theme that is being used, blue is the default theme colour. The installer added Windows DVD Player to my install as well as Windows Media Centre itself.
+![about]({{site.github.url}}/assets/img/WMC/about.png)
+As you can see, this is the version of Media Centre that came with Windows 8.1 though functionally it looks identical to the one that came with Windows 7.
+This was because the Windows Media Centre team was disbanded shortly after Windows 7’s release all the way back in 2009. 
+
+Setting up a TV tuner was a breeze but it was complaining about no EPG since that was switched off by Microsoft in 2020 however for me, I’ve found that I didn’t need it. I’ve tried to use EGP collector to get the guides in but as it couldn’t tune my tuner for whatever reason, I just left it and left Media Centre running with no information but I noticed that the guide was slowly filling itself with data from somewhere. I don’t know how or where but it does make some sense as some standalone TV tuners don’t have access to the internet so the information could just go along with the broadcasts and WMC is just picking them up, though this is pure speculation. 
+
+Windows Media Centre in 2021 looks to work well though I haven't tested any of the addons for it yet though, given its age, I doubt most are working. 
+
+
