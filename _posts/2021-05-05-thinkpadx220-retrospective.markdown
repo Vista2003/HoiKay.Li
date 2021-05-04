@@ -6,6 +6,7 @@ categories: Reviews Retrospectives
 description: A retrospective look at the ThinkPad X220
 author: Hoi Kay
 ---
+![X220]({{site.github.url}}/assets/img/X220/X220.jpeg)
 I am writing this on a ThinkPad X220 which I got as a Christmas present in 2017 and since then I have used it as my daily driver up until I got my Ryzen desktop PC in 2019 and it has since then it has been my go-to travel companion. The year is 2021 and this laptop came out in 2011, so why have I continued to use this decade-old laptop? <br>
 The X220 came out in 2011, back then Windows 7 was the latest and greatest Microsoft OS and Intel just released its 2nd generation line of their Core i series of processors (called Sandy Bridge) which was Intel’s final major performance leap on the desktop until 2018’s 8th generation Core i series of processors (called Coffee lake). USB 3.0 was not yet standard on the X220 and it was only available on the i7 variant of it though I have the more common i5 variant which is all USB 2.0 though it can be added back in with an express card (which also resolves palm rest flexing issues that the laptop had). <br>
 
