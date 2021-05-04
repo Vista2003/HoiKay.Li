@@ -22,6 +22,7 @@ The X220 also has great Linux support with most of it supported by the major dis
 
 ## Powerful enough for my on the go needs
 I know this sounds strange but even as a technology nerd, the X220 is powerful enough to do the majority of my work. This thing has seen Visual Studio 2019, Affinity Photo and Affinity Designer and it works well with those programs. Of course, if I wanted to compile a large program it’s going to take forever but for my hobby program making, it’s powerful enough to compile them in a reasonable time.<br>
+
 Of course, the Intel HD Graphics 3000 in there isn’t enough for much 3D gaming but that’s more suited to my gaming PC which has a graphics card. But for content consumption as well as basic editing in Affinity Photo, it still holds up.<br>
 As long as I’m not looking to play games on the go, it’s more than powerful enough for my on the go needs.
 ## In conclusion
