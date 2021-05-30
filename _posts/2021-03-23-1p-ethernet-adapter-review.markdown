@@ -13,7 +13,7 @@ First impressions are that it feels light though that’s expected for something
 
 Now, let's plug it into a computer!
 
-# Windows 10 64 Bit troubles
+## Windows 10 64 Bit troubles
 Plugging the adapter into my trusty ThinkPad X230 Tablet revealed that Windows 10 didn’t have the drivers for it to be plug and play. Device Manager returned an error 28 (no driver) when it was plugged in and it was identifying it as a “USB 2.0 10/100M Ethernet Adaptor”.
 ![device manager]({{site.github.url}}/assets/img/1p ethernet adapter review/deviceman.png)
 
@@ -23,13 +23,13 @@ But this "success" was shortlived as the driver just kept failing to be installe
 
 Clearly Windows 10 isn't going to want to work with this adapter without a driver CD if at all so let's go back a bit to an older operating system.
 
-# Using the adapter with Windows 8.1 32 Bit
+## Using the adapter with Windows 8.1 32 Bit
 OK, I know this isn't the world's most favourite version of Windows though it’s the oldest supported consumer OS from Microsoft. So let’s plug it in and see how it reacts.
 ![success]({{site.github.url}}/assets/img/1p ethernet adapter review/devicemanproperties.png)
 And it works! <br>
 Windows 8.1 correctly identified it and installed the correct drivers for it. As we can see, this adapter is using a Corechip Semiconductor chip. So let's benchmark it!
 
-# Benchmarks
+## Benchmarks
 So under Windows, it's showing up as an 100mbps connection but according to the switch, we've only got a half duplex 10mbps connection.
 
 ![connectionstats]({{site.github.url}}/assets/img/1p ethernet adapter review/status.png) <br>
@@ -42,7 +42,7 @@ When copying a file using SMB 3.02 over my network from my server, we only see a
 Trying to improve the performance of the adapter, I went back into device manager and looked at the advanced settings for this adapter and found that I could change the connection speeds by changing it to 100 Mbps and 100 Mbps Full Duplex but these seemed to do nothing for the connection.
 ![settings]({{site.github.url}}/assets/img/1p ethernet adapter review/changingsettings.png)
 
-# Verdict
+## Verdict
 If you see one for very cheap and want something to bottleneck your connection to effectively 7 Mbps then go-ahead. But if you want something to use for more than just telnetting into computers I would look elsewhere. <br>
 Also, the indicator light in it just served to show how hollow the adapter is.
 ![light]({{site.github.url}}/assets/img/1p ethernet adapter review/light.jpg)
