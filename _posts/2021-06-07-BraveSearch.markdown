@@ -20,13 +20,15 @@ Currently, Brave Search is in Beta which means that it ~~may~~ will change from 
 The first impressions of Brave Search were that it was very US centric with it defaulting to US Imperial units rather than Metric, though this can be changed with a quick switch though in my opinion, it should be Metric by default rather than US Imperial since most of the world operates on Metric units and Brave Search also defaults to the US for its search region while DuckDuckGo defaults based on your IP location. <br>
 
 Search results from both engines are largely the same when configured identically, in fact, Brave Search as a similar UI to DuckDuckGo but the spacing is different.
-![side by side]({{site.github.url}}/assets/img/brave search/duckduckgo and brave 1.png)
-[Enlarge image](https://hoikay.li/assets/img/brave search/duckduckgo and brave 1.png)
+
 
 ## UI issues
 Though this section is subjective, I have a few issues that I have with Brave Search's interface. First of which is the spacing of website listings, though some will like its large spacing, I personally think that it wastes too much screen space so I believe that Brave should have different viewing densities like GMail so that I can have the spacing of the listing tighter. <br>
 <br>
-Brave Search in Dark mode also lacks in contrast between text and the background and while this isn't much of a problem for me, it may present usability issues for some as the text is a darker shade of grey than what we would usually see in dark modes which can make the results hard to read for some. 
+Brave Search in Dark mode also lacks in contrast between text and the background and while this isn't much of a problem for me, it may present usability issues for some as the text is a darker shade of grey than what we would usually see in dark modes which can make the results hard to read for some.
+
+![side by side]({{site.github.url}}/assets/img/brave search/duckduckgo and brave 1.png)
+[Enlarge image](https://hoikay.li/assets/img/brave search/duckduckgo and brave 1.png)
 
 ## Features that I wish would be in Brave Search
 Though I don't expect Brave to implement these, it would be nice to see these in the search engine.
