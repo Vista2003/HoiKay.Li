@@ -20,6 +20,7 @@ Currently, Brave Search is in Beta which means that it ~~may~~ will change from 
 The first impressions of Brave Search were that it was very US centric with it defaulting to US Imperial units rather than Metric, though this can be changed with a quick switch though in my opinion, it should be Metric by default rather than US Imperial since most of the world operates on Metric units and Brave Search also defaults to the US for its search region while DuckDuckGo defaults based on your IP location. <br>
 
 Search results from both engines are similar when configured identically though Brave Search seems to be more relevant, in fact, Brave Search as a similar UI to DuckDuckGo but the spacing is different.
+Brave Search seems to limit the amount of results that it can display without a way of loading more results which can be annoying as it can feel like it's actively restricting what you can do with that query.
 
 
 ## UI issues
