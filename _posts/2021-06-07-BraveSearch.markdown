@@ -34,11 +34,14 @@ Brave Search in Dark mode also lacks in contrast between text and the background
 ## Features that I wish would be in Brave Search
 Though I don't expect Brave to implement these, it would be nice to see these in the search engine.
 
-### Duckduckgo's !bangs
+### DuckDuckgo's !bangs
 !bangs are awesome and they allow me to search on other websites from DuckDuckGo, I would love to see a similar feature on Brave Search as it makes it quicker and easier to search on other sites from my Omnibar (this is what Chromium calls that bar which allows you to type web addresses and search at the same time) without needing to type out the website because I can just do it with a letter plus an exclamation mark.
 
 ### Startpage's proxy
 Startpage is another privacy search engine that has an anonymous view which is a proxy view in your web browser. This could act as another layer of protection to Brave as it loads the website from Brave's site rather than yours which can help prevent ISP snooping.
+
+### Google's reverse image search
+Google’s reverse image search is one of the last uses of Google for me as it allows me to find higher resolution versions of images or find the original source of an image and currently non of the privacy-focused search engines having this feature (as far as I’m aware). If Brave Search implemented this feature, it would completely remove my need for Google as a search engine.
 
 ## In conclusion
 The new search engine looks to be an engine that has a similar look and feel as DuckDuckGo. It currently (in my opinion) doesn't have a standout that would make people want to switch to it rather than staying with DuckDuckGo or Startpage. We'll see how the new search engine evolves out of beta and see if it has the features needed to differentiate it from the competition. It also remains to be seen what Brave uses for indexing though, by default, it doesn't use Google though this can be enabled in the settings.
