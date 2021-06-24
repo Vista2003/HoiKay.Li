@@ -36,6 +36,6 @@ Teams is now intergrated into Windows and in the taskbar.
 (Re)introducing Windows widgets which looks to be Microsoft's version of Google Now.
 
 ## 16:21
-Windows now adapts more to how you use Windows (like bigger spacing when using it in tablet mode)
+Windows now adapts more to how you use Windows (like bigger spacing when using it in tablet mode). Windows also uses haptics when using a pen and Windows is now introduces a redesigned keyboard and improved voice recognition. 
 
 *More is to follow*
