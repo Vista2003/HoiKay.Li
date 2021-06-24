@@ -12,7 +12,8 @@ All times will be in UK local summer time (GMT +1)
 ### Pre event
 Microsoft is playing music that seems to be made from the various Windows sounds (both public and development releases) with a background that we've seen for the past few days.
 ![pre event]({{site.github.url}}/assets/img/Windows/preevent.png)
-### 16:00
+
+## 16:00
 The start of the event. Microsoft opens with talking about the history of Windows and what Windows means to the people behind it. The start the presenter talks about his childhood home.
 <br>
 The livestream is now having issues... 
@@ -40,6 +41,10 @@ Windows now adapts more to how you use Windows (like bigger spacing when using i
 
 ## 16:26
 Microsoft is now talking about new gaming features of Windows.
- 
+
+*  Auto HDR is getting ported to Windows 11 from the Xbox
+![AutoHDR]({{site.github.url}}/assets/img/Windows/autohdr.png)
+*  Direct Storage is now in Windows 11 to improve load speeds
+*  Xbox gamepass now is in Windows 11 
 
 *More is to follow*
