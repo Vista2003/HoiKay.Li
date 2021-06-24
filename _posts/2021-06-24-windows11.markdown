@@ -50,7 +50,14 @@ Microsoft is now talking about new gaming features of Windows.
 ## 16:33
 Microsoft redesigns Microsoft Store.
 ![MSSTORE]({{site.github.url}}/assets/img/Windows/msstore.png)
-Microsoft talks about Microsoft Store now allows UWP and Win32 programs and also allows developers to use third party payment processors (likely a jab at Apple).
+<br>
+Microsoft talks about Microsoft Store now allows UWP and Win32 programs and also allows developers to use third party payment processors (likely a jab at Apple). <br>
 Android apps are now also coming to Windows 11. The Amazon app store is now intergrated into the Microsoft Store to allow for Android apps.
+<br>
 ![AMSTORE]({{site.github.url}}/assets/img/Windows/amazonstore.png)
+
+
+
+
+
 *More is to follow*
