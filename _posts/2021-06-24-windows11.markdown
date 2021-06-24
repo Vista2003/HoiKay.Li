@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Windows "11" annoucement commentary"
+date: 2021-06-24
+categories: Windows
+description: An attempt to do a running commentary on Microsoft annocement of their new operating system
+author: Hoi Kay
+---
+All times will be in UK local summer time (GMT +1)
+### Pre event
+Microsoft is playing music that seems to be made from the various Windows sounds (both public and development releases) with a background that we've seen for the past few days.
+![pre event]({{site.github.url}}/assets/img/Windows/preevent.png)
+### 16:00
+The start of the event. Microsoft opens with talking about the history of Windows and what Windows means to the people behind it. The start the presenter talks about his childhood home.
+<br>
+The livestream is now having issues... 
+
+
+
+
+*More is to follow*
