@@ -23,6 +23,9 @@ Microsoft offically calls it Windows 11. Shows new themes and other UI elements 
 ## 16:10
 Windows Updates are 40% smaller and the product uses less power and faster. Microsoft also calls it the most secure Windows yet. Windows looks to be more intergrated with OneDrive with the recent screen showing files opened on other devices.
 <br>
-Windows also now has snap layouts to help users snap Windows easier. Windows now has "snap groups" which remembers what position windows and putting it on your taskbar.
+Windows also now has snap layouts to help users snap Windows easier. Windows now has "snap groups" which remembers what position windows and putting it on your taskbar. Windows also remembers where windows were on multi monitor laptop setups and is able to restore the layout when a monitor is reconnected.
+
+## 16:14
+Edge now has virtual tab bars and Windows now has a different backgrounds for their multi desktop function.
 
 *More is to follow*
