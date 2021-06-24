@@ -35,4 +35,7 @@ Teams is now intergrated into Windows and in the taskbar.
 ## 16:20
 (Re)introducing Windows widgets which looks to be Microsoft's version of Google Now.
 
+## 16:21
+Windows now adapts more to how you use Windows (like bigger spacing when using it in tablet mode)
+
 *More is to follow*
