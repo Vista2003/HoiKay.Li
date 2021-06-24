@@ -60,6 +60,7 @@ Android apps are now also coming to Windows 11. The Amazon app store is now inte
 Satya now talks about reimagining everything in Windows. <br>
 Satya talks about how operating systems should mold to you rather than the other way around. Microsoft now wants to empower people to produce and inspire you to create. Satya says Windows is not just an OS, it's a platform and talks about the need for a more open platform. 
 <br>
+<br>
 Satya now says, this is a new era of Windows.
 
 ## 16:45
