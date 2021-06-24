@@ -6,6 +6,8 @@ categories: Windows
 description: An attempt to do a running commentary on Microsoft annocement of their new operating system
 author: Hoi Kay
 ---
+This is an attempt to do a running commentary on Microsoft annocement of their new operating system
+<br>
 All times will be in UK local summer time (GMT +1)
 ### Pre event
 Microsoft is playing music that seems to be made from the various Windows sounds (both public and development releases) with a background that we've seen for the past few days.
