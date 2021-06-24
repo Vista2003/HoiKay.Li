@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>RIP Apple Daily</title>
+<style type="text/css">
+.wrapper {
+    background-color: #000000;
+	height: 800px;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+	text-align: center;
+    font-family:  Arial;
+}
+</style>
+</head>
+
+<body style="background-color:black;">
+<color>black</color>
+<div class="wrapper">
+	<br>
+	<br>
+    <h1 style="color:white">RIP Apple Daily 1995 - 2021</h1>
+	<br>
+	<br>
+<div>
+    <img src="https://raw.githubusercontent.com/Vista2003/HoiKay.Li/master/assets/img/Apple.gif" alt="Apple Daily's apple skipping">
+    <p style="color:white"> I think this little guy needs a new home  </p>
+</div>
+</body>
+</html>
