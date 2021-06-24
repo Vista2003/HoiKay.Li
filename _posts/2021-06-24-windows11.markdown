@@ -32,5 +32,7 @@ Edge now has virtual tab bars and Windows now has a different backgrounds for th
 Teams is now intergrated into Windows and in the taskbar.
 ![Teams in the taskbar]({{site.github.url}}/assets/img/Windows/teamstaskbar.png)
 
+## 16:20
+(Re)introducing Windows widgets which looks to be Microsoft's version of Google Now.
 
 *More is to follow*
