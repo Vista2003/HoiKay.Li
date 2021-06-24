@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 11 annoucement commentary"
 date: 2021-06-24
-categories: Windows
+categories: windows
 description: An attempt to do a running commentary on Microsoft annocement of their new operating system
 author: Hoi Kay
 ---
@@ -27,5 +27,8 @@ Windows also now has snap layouts to help users snap Windows easier. Windows now
 
 ## 16:14
 Edge now has virtual tab bars and Windows now has a different backgrounds for their multi desktop function.
+
+## 16:16
+
 
 *More is to follow*
