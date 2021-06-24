@@ -19,7 +19,7 @@ This announcement seems to mainly talk about features with no release date or pr
 There have been many new features that have been announced in this event and I’ll categories them into these groups to make it easier to talk about these new features.
 
 ### Visual changes 
-As seen in the leaked version of Windows 11 earlier this month, Windows 11 now has a new logo and the taskbar is now centred rather than on the left side, though if the leak is anything to go by, you should still be able to put the icons on the more traditional left-hand side of the taskbar. <br>
+As seen in the leaked version of Windows 11 earlier this month, Windows 11 now has a new logo and the taskbar is now centred rather than on the left side, though if the leak is anything to go by, you should still be able to put the icons on the more traditional left-hand side of the taskbar as well as rounded corners everywhere. <br>
 #### Snap layouts
 In Windows 7 we were first introduced to Aero snapping by bringing Windows to the top two corners of your screen to snap windows to half of your screen. <br> In Windows 10, that functionality was improved with windows being able to snap in a quadrant and the system being able to prompt you if you want to snap other windows when snapping the first one. <br> <br> Windows 11 improves on this further with snap layouts which has more snapping options (probably for people who have tall content or ultra-widescreen monitor users) and a visual layout of how windows can be snapped.
 ![Snap layouts]({{site.github.url}}/assets/img/Windows/snaplayouts.png)
