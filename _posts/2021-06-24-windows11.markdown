@@ -6,7 +6,7 @@ categories: windows
 description: An attempt to do a running commentary on Microsoft annocement of their new operating system
 author: Hoi Kay
 ---
-This is an attempt to do a running commentary on Microsoft annocement of their new operating system
+This is an attempt to do a running commentary on Microsoft annocement of their new operating system. A proper write up will be coming soon.
 <br>
 All times will be in UK local summer time (GMT +1)
 ### Pre event
@@ -37,5 +37,9 @@ Teams is now intergrated into Windows and in the taskbar.
 
 ## 16:21
 Windows now adapts more to how you use Windows (like bigger spacing when using it in tablet mode). Windows also uses haptics when using a pen and Windows is now introduces a redesigned keyboard and improved voice recognition. 
+
+## 16:26
+Microsoft is now talking about new gaming features of Windows.
+ 
 
 *More is to follow*
