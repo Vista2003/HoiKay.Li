@@ -42,7 +42,7 @@ Microsoft is looking to make Teams a one touch experience. I suspect soon we'll 
 ## Microsoft has now improved the Windows experience for devices that don't have a keyboard
 * Trackpad gestures now work with a touch screen
 * The pen now has haptic feedback when you use it
-* Windows now has a new touch keyboard with support for themes, emojis and GIFs (I'm guessing the later functions of it will make it popular with even desktop users)
+* Windows now has a new touch keyboard with support for themes, emojis and GIFs (I'm guessing the latter functions of it will make it popular with even desktop users)
 * Windows now has improved voice typing and commands though we don't know how well it'll work in the real world yet but hopefully it will be better than the [Vista one](https://www.youtube.com/watch?v=kX8oYoYy2Gc)
 
 ## Windows Widgets makes a comeback (sort of)
