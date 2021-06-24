@@ -44,7 +44,8 @@ Microsoft is now talking about new gaming features of Windows.
 
 *  Auto HDR is getting ported to Windows 11 from the Xbox
 ![AutoHDR]({{site.github.url}}/assets/img/Windows/autohdr.png)
-*  Direct Storage is now in Windows 11 to improve load speeds
+*  Direct Storage is now in Windows 11 to improve load speeds on supported PCs
 *  Xbox gamepass now is in Windows 11 
+
 
 *More is to follow*
