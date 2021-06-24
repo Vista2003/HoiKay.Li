@@ -64,5 +64,5 @@ Satya talks about how operating systems should mold to you rather than the other
 Satya now says, this is a new era of Windows.
 
 ## 16:45
-End of the consumer event for Windows 11.
+End of the consumer event for Windows 11 with no date or price annouced.
 
