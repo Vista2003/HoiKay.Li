@@ -56,7 +56,8 @@ Android apps are now also coming to Windows 11. The Amazon app store is now inte
 <br>
 ![AMSTORE]({{site.github.url}}/assets/img/Windows/amazonstore.png)
 
-
+## 16:39
+Satya now talks about reimagining everything in Windows.
 
 
 
