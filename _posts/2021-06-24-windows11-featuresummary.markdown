@@ -33,7 +33,7 @@ Microsoft started with a quick mention of under the hood changes in Windows like
 Microsoft is also improving one of the least liked features of Windows, Windows Updates by making them “40%” smaller and less invasive by going them in the background. <br>
 Microsoft is also calling Windows 11 "the most secure version of Windows yet"
 
-## Teams is now intergrated to Windows
+## Teams is now intergrated into Windows
 ![Teams in the taskbar]({{site.github.url}}/assets/img/Windows/teamstaskbar.png)
 <br>
 <br>
