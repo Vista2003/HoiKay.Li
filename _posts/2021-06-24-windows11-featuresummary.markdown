@@ -45,10 +45,10 @@ Microsoft is looking to make Teams a one touch experience. I suspect soon we'll 
 * Windows now has a new touch keyboard with support for themes, emojis and GIFs (I'm guessing the latter functions of it will make it popular with even desktop users)
 * Windows now has improved voice typing and commands though we don't know how well it'll work in the real world yet but hopefully it will be better than the [Vista one](https://www.youtube.com/watch?v=kX8oYoYy2Gc)
 
-## Windows Widgets makes a comeback (sort of)
+## Windows Widgets (gadgets) makes a comeback (sort of)
 ![widgets]({{site.github.url}}/assets/img/Windows/widgets.png) <br>
 <br>
-Those old enough to remember Windows Vista and 7 will remember desktop widgets in Windows though they were removed in Windows 8 due to security issues and being replaced with live tiles. These new widgets don’t like on the desktop but instead, live in their own area in front of frosted glass and look to be Microsoft’s version of the Google Now feed.
+Those old enough to remember Windows Vista and 7 will remember desktop gadgets in Windows though they were removed in Windows 8 due to security issues and being replaced with live tiles. These new widgets don’t like on the desktop but instead, live in their own area in front of frosted glass and look to be Microsoft’s version of the Google Now feed.
 
 ## Windows as a gaming platform
 Windows has been a gaming platfrom since the Windows 95 days when Gabe Newell (yes that Gabe Newell) helped to port Doom from MS-DOS to Windows 95 as Doom 95. This helped to move PC gaming away from MS-DOS and towards Windows and with the introduction of DirectX, Windows has since solidified its place as a gaming platform. Windows 11 will bring new features for gamers and here they are below.
