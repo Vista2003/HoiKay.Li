@@ -19,5 +19,8 @@ In 2006, Microsoft started the "Vista Capable" program which allowed OEMs to mar
 Image source: Ars Technica <br>
 <br>
 In reality, the Vista Capable sticker only meant that the system met the requirements for Windows Vista Home Basic which lacked the visual wow of Windows Aero and with only 512MB of RAM, Vista would run very slowly.
+<br>
+Windows 11's system requirements are very unusally high and a departure from the system requirements for Windows 10 that haven't really changed since Windows Vista (apart from increases to minimum storage and extra CPU instructions). Windows 11 requires a 8th generation Intel CPU (2017) or an AMD Zen+ CPU (2018) with some expections given to some 7th generation Intel CPUs like the Intel Core i7 7820HQ which is in the Surface Studio 2 which Microsoft is selling at full price on their store to this day (as of writing). [^2]
 
-[^1]: [https://www.networkworld.com/article/2349818/-vista-capable--lawsuit-progresses.html](https://www.networkworld.com/article/2349818/-vista-capable--lawsuit-progresses.html)
+[^1]: [https://www.networkworld.com/article/2349818/-vista-capable--lawsuit-progresses.html](https://www.networkworld.com/article/2349818/-vista-capable--lawsuit-progresses.html) <br>
+[^2]: [https://blogs.windows.com/windows-insider/2021/08/27/update-on-windows-11-minimum-system-requirements-and-the-pc-health-check-app/](https://blogs.windows.com/windows-insider/2021/08/27/update-on-windows-11-minimum-system-requirements-and-the-pc-health-check-app/)
