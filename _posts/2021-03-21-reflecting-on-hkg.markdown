@@ -4,6 +4,7 @@ title: "Reflecting on my role as an admin for hongkonggag and the Resurgence"
 date: 2021-03-21
 categories: General
 author: Hoi Kay
+published: false
 ---
 The Resurgence group chat started in June 2019 during the highest of the pro-democracy protests in Hong Kong. The group started as an Instagram story that appeared one day and as soon as I saw it, I jumped on and asked to be added to the group. During the early days of the chat, I can remember the excitement of each morning of getting hundreds and maybe thousands of notifications (yes it was that bad). During the early days, it was the place for me to meet new people and to discuss things. I can still remember the panic of the rumours that tanks would be deployed in Hong Kong. <br>
 
