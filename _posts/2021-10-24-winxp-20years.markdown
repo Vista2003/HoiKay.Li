@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Windows XP at 20 years"
+date: 2021-10-24
+categories: Windows
+description: A look back on the 20 years since Windows XP's release
+author: Hoi Kay
+---
+Today marks 20 years since Microsoft released its Windows XP operating system to retail. In this post, I will look back onto Windows XP’s history and look at how usable it is, 20 years later. <br>
+<br>
+![Windows XP boot screen]({{site.github.url}}/assets/img/XP/XPBoot.png)
+{% include toc.md %}
+<br>
+# The OS to merge the desktop Windows families
+Before Windows XP, desktop Windows was split into 2 product families, Windows 9x and Windows NT. <br>
+Windows 9x are probably what most users will be familiar with in the 1990s. Windows 9x was a series of operating systems that were based on MS-DOS and had 4 full releases, Windows 95, Windows 98 First Edition, Windows 98 Second Edition, Windows Me (Mistake Edition, Millennium Edition). <br>
+<br>
+Windows NT stood for Windows New Technology and forms the foundation of all desktop versions of Windows since XP. Windows NT in the 1990s and 2000 was mainly targeted at the enterprise. NT was rock solid stable compared to its 9x counterparts but required more resources to run which many home PCs in the ’90s didn’t have but as Moore’s law progressed, home PCs began to become powerful enough to run the NT kernel well and it was time to migrate home users to the NT standard.
+Windows XP began life as Windows codenamed Neptune and Odyssey but was later merged into a single unified project called Windows codename Whistler where it later became Windows XP and was released to the public on the 24th October 2001. <br>
+<br>
+Windows XP was first offered in both Home and Professional editions which was targeted at home and business respectively. Both editions had the same NT foundation and it was the first time that we had a release of Windows for both home and business since Windows 3.1 in 1992. Windows XP offered a new user interface called the Luna theme which wasn’t popular with some older Windows users as they called the interface a “Fisherprice operating system” even though the Windows classic theme was still included in Windows until Windows 8 which was released 11 years later. <br>
+<br>
+
+# XP in an NT 6.x world
+Windows XP continued to be very popular during the 2010s after the failure of Windows Vista to attract users due to a variety of reasons and later was dethrone by Windows 7 in 2011 as the world’s #1 desktop operating system. XP continued to be in the top 3 most popular versions of Windows for a large part of the 2010s. Standard desktop Windows XP (Home Edition and Professional) was supported until 8th April 2014 while embedded versions of XP lasted until April 2019, almost 18 years after the initial release of Windows XP. <br>
+<br>
+Microsoft released 3 security updates to standard desktop Windows XP since the end of support in April 2014 these were: <br>
+
+*	May 2014 – An emergency patch to IE6 – 11 and was an exception to MS’s EOL policy due to how close it was to Windows XP’s EOL
+
+*	May 2017 – To patch the security vulnerability called EternalBlue which was the exploit used by the WannaCrypt ransomware in 2017 and allowed it to spread so rapidly in computer networks that didn’t have SMB 1.0 disabled
+*	May 2019 – To patch a remote desktop protocol vulnerability in Windows XP – 7 that could have been used in the same way as EternalBlue
+
+Due to this long period of support from Microsoft and the continued usage of Windows XP into the 2010s lead to support for Windows XP from third-party software vendors to continue to support XP long after Windows XP support officially ended in 2014. The Chromium project (the open-source project behind Google Chrome, Brave, Opera, among many others) supported XP until 2016 while Firefox continued support until 2018 with some forks of Firefox continuing support to this day.
+<br>
+
+# XP today
+
+Windows XP today is perfectly usable (albeit insecure) for basic tasks like web browsing and Microsoft Office related tasks as Office 2010 was still supported on XP and it only lost support last year which means that it’ll still be able to read and render most Office files correctly and using a browser like New Moon (A Pale Moon fork) allows for up to date web browsing with good HTML5 support and TLS1.3 support. Even some anti-virus vendors still support Windows XP to help (somewhat) secure it to this very day. <br>
+<br>
+Happy birthday Windows XP!
+![XP playing YT]({{site.github.url}}/assets/img/XP/XP YT.png)
