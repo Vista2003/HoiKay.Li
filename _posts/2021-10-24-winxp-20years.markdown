@@ -11,6 +11,7 @@ Today marks 20 years since Microsoft released its Windows XP operating system to
 ![Windows XP boot screen]({{site.github.url}}/assets/img/XP/XPBoot.png)
 {% include toc.md %}
 <br>
+
 # The OS to merge the desktop Windows families
 Before Windows XP, desktop Windows was split into 2 product families, Windows 9x and Windows NT. <br>
 Windows 9x are probably what most users will be familiar with in the 1990s. Windows 9x was a series of operating systems that were based on MS-DOS and had 4 full releases, Windows 95, Windows 98 First Edition, Windows 98 Second Edition, Windows Me (Mistake Edition, Millennium Edition). <br>
