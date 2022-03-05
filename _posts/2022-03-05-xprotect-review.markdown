@@ -7,7 +7,8 @@ description: A review of Milestone's XProtect Essential+ software
 author: Hoi Kay
 ---
 ![XProtect Smart Client]({{site.github.url}}/assets/img/xprotect/smart.png)
-[Enlarge image](https://hoikay.li/assets/imgxprotect/smart.png) <br>
+[Enlarge image](https://hoikay.li/assets/img/xprotect/smart.png) <br>
+<br>
 Milestone XProtect is a Video Management Software (VMS) for network IP cameras. The Essential+ edition of its software is intended for small businesses and can be used with up to 8 network cameras. This is my review of the software as a home user with a Microsoft Active Directory home lab network after using the software for over a year. <br>
 <br>
 
@@ -17,7 +18,8 @@ The XProtect installer takes a long time to install the software onto your machi
 The XProtect Management Client feels like a relic of the Windows XP era, while it is perfectly functional, I can hardly call it user friendly like its makers claim as the interface does take a lot to get used to. <br>
 
 ![XProtect Management Client]({{site.github.url}}/assets/img/xprotect/management.png)
-[Enlarge image](https://hoikay.li/assets/imgxprotect/management.png) <br>
+[Enlarge image](https://hoikay.li/assets/img/xprotect/management.png) <br>
+<br>
 Once XProtect is installed however, it does get better as I will detail below. <br>
 <br>
 
