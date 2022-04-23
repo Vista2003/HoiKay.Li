@@ -16,7 +16,7 @@ Once it has rebooted, open an SSH session with the Edgerouter and enter the foll
 
 ```
 configure 
-set interfaces ethternet eth0 ppoe 0 ipv6 enable 
+set interfaces ethernet eth0 pppoe 0 ipv6 enable 
 set protocols static interface-route6 ::/0 next-hop-interface pppoe0 
 commit 
 save
