@@ -7,7 +7,9 @@ description: Microsoft is now sending EOL popups to Win8.1 users
 author: Hoi Kay
 ---
 ![Windows 8.1 EOL popup]({{site.github.url}}/assets/img/win8-eol/win8-eol.png) <br>
+[Enlarge image](https://hoikay.li/assets/img/win8-eol/win8-eol.png)
+<br>
 <br>
 Start your end of support countdown clocks for Windows 8.1. Microsoft has now released an end of support popup for Windows 8.1, like what they did for Windows XP and Windows 7 before it. <br>
 <br>
-As a reminder, Windows 8,1 support ends on the 10th January 2023. For many, this date will go on unnoticed but for some devolt Windows 8.1 users, thus day will be sad indeed.
+As a reminder, Windows 8.1 support ends on the 10th January 2023. For many, this date will go on unnoticed but for some devolt Windows 8.1 users, thus day will be sad indeed.
