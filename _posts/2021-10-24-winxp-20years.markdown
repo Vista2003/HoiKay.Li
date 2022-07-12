@@ -41,3 +41,5 @@ Windows XP today is perfectly usable (albeit insecure) for basic tasks like web 
 <br>
 Happy birthday Windows XP!
 ![XP playing YT]({{site.github.url}}/assets/img/XP/XP YT.png)
+
+[Enlarge image](https://hoikay.li/assets/img/XP/XP%20YT.png)
