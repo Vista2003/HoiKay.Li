@@ -3,7 +3,7 @@ layout: post
 title: "Arcade Club Bury - Through the lens of the 2000's"
 date: 2023-08-12
 categories: photography
-description: Arcade Club Bury - Through a CCD sensor
+description: Arcade Club Bury through the eyes of a CCD sensor
 author: Hoi Kay
 ---
 I've been thinking for a while that I should release some of the photos that I have taken over the years on this site, so this is my first move to do that. You will see more photos on this site as I *slowly* go through my photo gallery. <br>
