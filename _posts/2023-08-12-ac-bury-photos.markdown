@@ -20,6 +20,8 @@ These photos were taken using an old [Nikon D80](https://www.dpreview.com/review
 
 ![5]({{site.github.url}}/assets/photos/webDSC_0057.jpg) <br>
 
+![6]({{site.github.url}}/assets/photos/webDSC_0104.jpg) <br>
+
 | Camera 📷| Nikon D80 |
 | Location 📌| Arcade Club Bury |
 | Shooting date 📅 | August 2023 |
