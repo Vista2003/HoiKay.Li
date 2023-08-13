@@ -3,6 +3,6 @@ layout: post
 title: "Welcome to my website"
 date: 2021-02-28 16:00
 categories: General
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 Welcome to my website and if you're reading this on the internet, it means that this thing is working! :)

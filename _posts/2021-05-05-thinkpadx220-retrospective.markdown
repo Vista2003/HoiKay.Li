@@ -4,7 +4,7 @@ title: "ThinkPad X220 in retrospect"
 date: 2021-05-05
 categories: Reviews Retrospectives
 description: A retrospective look at the ThinkPad X220
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 ![X220]({{site.github.url}}/assets/img/X220/X220.jpeg)
 

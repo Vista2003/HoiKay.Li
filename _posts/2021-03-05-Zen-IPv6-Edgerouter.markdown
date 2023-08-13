@@ -4,7 +4,7 @@ title: "Configuring IPv6 on the EdgeRouter X on Zen"
 date: 2021-03-05
 categories: Networking
 description: Configuring IPv6 on the EdgeRouter X Zen UK
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 Configuring IPv6 on the Edgerouter X on Zen can be a bit of a pain since there's not much documentation on the matter. These instructions are for the EdgeRouter X running the latest firmware but should be applied to the rest of the current Edgerouter line as long as the firmware is up to date though I haven't tested it.
 

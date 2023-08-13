@@ -4,7 +4,7 @@ title: "Milestone XProtect Essential+ review from a homelabber "
 date: 2022-03-05
 categories: Review
 description: A review of Milestone's XProtect Essential+ software
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 ![XProtect Smart Client]({{site.github.url}}/assets/img/xprotect/smart.png)
 [Enlarge image](https://hoikay.li/assets/img/xprotect/smart.png) <br>

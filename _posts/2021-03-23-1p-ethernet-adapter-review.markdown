@@ -3,7 +3,7 @@ layout: post
 title: "The 1p Ethernet adapter review"
 categories: Networking Review
 description: A review of the unbelievably cheap ethernet adapter
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 This post is a two-parter, if you haven't read the previous post click [here](https://hoikay.li/networking/2021/03/07/the-1p-ethernet-adapter/).
 

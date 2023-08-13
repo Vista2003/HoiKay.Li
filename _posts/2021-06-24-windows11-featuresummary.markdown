@@ -4,7 +4,7 @@ title: "Windows 11 features summary"
 date: 2021-06-24 16:50
 categories: windows
 description: A summary on the annouced features of Windows 11
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 <iframe width="650" height="390" src="https://www.youtube-nocookie.com/embed/Uh9643c2P6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

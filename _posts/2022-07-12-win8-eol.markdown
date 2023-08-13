@@ -4,7 +4,7 @@ title: "The Windows 8.1 EOL countdown starts now"
 date: 2022-07-12
 categories: windows
 description: Microsoft is now sending EOL popups to Win8.1 users
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 ![Windows 8.1 EOL popup]({{site.github.url}}/assets/img/win8-eol/win8-eol.png) <br>
 [Enlarge image](https://hoikay.li/assets/img/win8-eol/win8-eol.png)

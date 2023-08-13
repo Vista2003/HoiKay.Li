@@ -3,7 +3,7 @@ layout: post
 title: "The 2021 Windows Media Center experience"
 categories: Windows WMC
 description: A look at Microsoft's discontinued Media Centre program
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 *2009 called and it wanted to get its media centre software back* <br>
 Yeah, I know it's 2021 so why am I looking at Windows Media Centre? <br>

@@ -4,7 +4,7 @@ title: "A first look at Brave Search"
 date: 2021-06-07
 categories: Brave Search
 description: A first look at the Brave Search Beta
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 ![homepage]({{site.github.url}}/assets/img/brave search/homepage.png) <br>
 

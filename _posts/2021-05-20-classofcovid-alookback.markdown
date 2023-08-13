@@ -4,7 +4,7 @@ title: Class of COVID – A lookback
 date: 2021-05-20
 categories: General 
 description: Reflecting on the past 2 years of education during a pandemic as a BTEC student
-author: Hoi Kay
+author: Hoi Kay Li
 ---
 First of all, I don’t expect most people to be interested, this is just for me to write down my thoughts and reflecting on the past 2 years of sixth form education in the UK with it abruptly changing due to the SARS-CoV-2/COVID-19 pandemic. <br>
 
