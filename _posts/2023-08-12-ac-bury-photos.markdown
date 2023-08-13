@@ -10,19 +10,19 @@ I've been thinking for a while that I should release some of the photos that I h
 <br>
 These photos were taken using an old [Nikon D80](https://www.dpreview.com/reviews/nikond80) from 2006 which was one of the last cameras that used the older CCD sensors that were popular during the transition to digital that happened in the 2000's. Due to the differences of how these sensors render colours compared to their modern CMOS counterparts, photos shot with cameras from this era often have a more nostalgic feel to them. <br>
 
-![1]({{site.github.url}}/assets/photos/webDSC_0052.jpg) <br>
+![1]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0052.jpg) <br>
 
-![2]({{site.github.url}}/assets/photos/webDSC_0060.jpg) <br>
+![2]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0060.jpg) <br>
 
-![3]({{site.github.url}}/assets/photos/webDSC_0071.jpg) <br>
+![3]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0071.jpg) <br>
 
-![4]({{site.github.url}}/assets/photos/webDSC_0101.jpg) <br>
+![4]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0101.jpg) <br>
 
-![5]({{site.github.url}}/assets/photos/webDSC_0057.jpg) <br>
+![5]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0057.jpg) <br>
 
-![6]({{site.github.url}}/assets/photos/webDSC_0104.jpg) <br>
+![6]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0104.jpg) <br>
 
-![6]({{site.github.url}}/assets/photos/webDSC_0050.jpg) <br>
+![6]({{site.github.url}}/assets/photos/AC-Bury-Aug2023/webDSC_0050.jpg) <br>
 
 | Camera 📷| Nikon D80 |
 | Location 📌| Arcade Club Bury, UK |
