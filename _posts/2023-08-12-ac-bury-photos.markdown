@@ -25,6 +25,6 @@ These photos were taken using an old [Nikon D80](https://www.dpreview.com/review
 ![6]({{site.github.url}}/assets/photos/webDSC_0050.jpg) <br>
 
 | Camera 📷| Nikon D80 |
-| Location 📌| Arcade Club Bury |
+| Location 📌| Arcade Club Bury, UK |
 | Shooting date 📅 | August 2023 |
 | Licensing 📝| <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The photos on this page are licensed under a<br> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. <br> If you wish to use any these photos on this page for commercial use, <br>please contact me at the email address at the bottom of the page.|
