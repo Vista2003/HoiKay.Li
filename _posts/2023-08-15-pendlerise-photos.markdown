@@ -7,7 +7,7 @@ description: Documenting the current state of Pendle Rise Shopping Centre
 author: Hoi Kay Li
 ---
 
-Pendle Rise Shopping Centre is a shopping mall in the centre of Nelson, Lancashire, UK. The interior feels like a blast from the 80s/90s and with this look I've decided to use the old  [Nikon D80](https://www.dpreview.com/reviews/nikond80) to capture the location. Below are photos take in August 2023 although, like with the previous post at [Arcade Club Bury](https://hoikay.li/photography/2023/08/12/ac-bury-photos/), the photos may feel older due to the sensor used to take these photos. <br>
+Pendle Rise Shopping Centre is a shopping mall in the centre of Nelson, Lancashire, UK. The interior feels like a blast from the 80s/90s and with this look I've decided to use the old  [Nikon D80](https://www.dpreview.com/reviews/nikond80) to capture the location. The photos below were taken in August 2023 although, like with the previous post at [Arcade Club Bury](https://hoikay.li/photography/2023/08/12/ac-bury-photos/), the photos may feel older due to the sensor used to take these photos. <br>
 ![1]({{site.github.url}}/assets/photos/PendleRise-Aug2023/webDSC_0130.jpg) <br>
 View of the enterance
 
