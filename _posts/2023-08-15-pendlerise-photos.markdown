@@ -32,6 +32,10 @@ Remember Poundworld?
 
 ![9]({{site.github.url}}/assets/photos/PendleRise-Aug2023/webDSC_0118.jpg) <br>
 
+![10]({{site.github.url}}/assets/photos/PendleRise-Aug2023/webDSC_0141.jpg) <br>
+
+![11]({{site.github.url}}/assets/photos/PendleRise-Aug2023/webDSC_0113.jpg) <br>
+
 | Camera 📷| Nikon D80 |
 | Location 📌| Pendle Rise Shopping Centre, Nelson, UK|
 | Shooting date 📅 | August 2023 |
