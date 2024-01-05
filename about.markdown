@@ -8,4 +8,4 @@ Just a random blog that I'm running. <br>
 It'll mainly focus on technology though other things will be posted on it.
 
 
-© Hoi Kay Li 2021 - 2023 unless stated otherwise. 
+© Hoi Kay Li 2021 - 2024 unless stated otherwise. 
