@@ -1,0 +1,12 @@
+---
+layout: post
+title: "A look into the world of Panasonic's Japanese laptops"
+date: 
+categories: Review
+description: A look into some of Panasonic's Let's Note line of laptops
+author: Hoi Kay Li
+published: false
+---
+
+{% include toc.md %}
+
