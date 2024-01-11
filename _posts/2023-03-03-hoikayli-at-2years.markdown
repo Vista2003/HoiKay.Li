@@ -13,7 +13,9 @@ I started this website back in February 2021, back then I was in my final year o
 <br>
 When I created this site, I was hoping to post regularly on it but I haven’t been great at doing that. Back then, I hoped to put reviews and tech tips on here but I just haven’t had the time to do it over the last 2 years. I do hope to change that I will be able to post here more often but it does take more effort compared to something like a Reddit post to put something here.<br>
 <br>
-So, what have I been up to in the past 2 years?
+
+### So, what have I been up to in the past 2 years?
+
 <br>
 Well, after finishing sixth-form college, I was hoping to get into a degree apprenticeship in 2021 but I started my search too late and a lot of the good places were already closed by the time I started to apply. In the summer of 2021, as a stopgap, I did a gap year and entered the world of work.
 In August 2021, I started work at a system integrator (people who sell custom-built PCs) as an RMA technician. While I liked the people I worked with, the company isn’t great to work with.<br>
