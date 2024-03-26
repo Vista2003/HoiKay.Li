@@ -6,7 +6,7 @@ categories: Review
 description: A review of the ThinkPad X13 Gen 4 AMD
 author: Hoi Kay Li
 ---
-
+![ThinkPad_X13Gen4]({{site.github.url}}/assets/img/X13G4/X13Gen4.jpg)
 {% include toc.md %}
 
 This is a review of the AMD variant of the ThinkPad X13 Gen 4 that was released in 2023 from the perspective of an existing ThinkPad user with multiple older ThinkPads like the X220 and A285 (AMD X280). This review will primarily compare it to these models to help you to make an informed opinion if the X13 Gen 4 is a worthy upgrade compared to previous ThinkPad models.
