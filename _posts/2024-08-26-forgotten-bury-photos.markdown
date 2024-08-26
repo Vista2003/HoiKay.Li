@@ -6,7 +6,7 @@ categories: photography
 description: Documenting some of the forgotten parts of Bury
 author: Hoi Kay Li
 ---
-These photos were taken in Bury, Greater Manchester. Bury was once, one of the many industrial towns in the north of England. Bury was known for its textile industry, until that got shipped overseas. Leaving Bury a husk of its former self. These photos were taken on a [Fujifilm X20](https://www.dpreview.com/reviews/fujifilm-x20) which was released in 2013.
+These photos were taken in Bury, Greater Manchester. Bury was one of the many industrial towns in the north of England. Bury was once known for its textile industry, until that got shipped overseas. Leaving Bury a husk of its former self. These photos were taken on a [Fujifilm X20](https://www.dpreview.com/reviews/fujifilm-x20) which was released in 2013.
 
 ![1]({{site.github.url}}/assets/photos/ForgottenBury-Aug2024/webDSCF8594.jpg) <br>
 
