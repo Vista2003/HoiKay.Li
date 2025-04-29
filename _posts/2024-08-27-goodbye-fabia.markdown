@@ -5,6 +5,7 @@ date: 2024-08-27
 categories: cars
 description: A farewell letter to my first car
 author: Hoi Kay Li
+published: false
 ---
 
 Today, I say goodbye to my first car, a 2005 Silver Skoda Fabia Mk1. While the decision to buy that car came more from desperation rather than desire, it was a purchase that I did not live to regret. I purchased the car in October 2021 from the (now retired) family mechanic friend for not a lot. At the time, I was still a learner driver after completing around 4 lessons from a few months prior and not much experience behind the wheel. <br>
