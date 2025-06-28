@@ -12,4 +12,4 @@ Hi all, this is just an announcement to say that I'm now uploading new photos to
 
 You can access my Flickr [here](https://flickr.com/people/hoikay/) but before you go, here is a small sample of photos from my Japan trip that I have there. I hope you enjoy them.
 
-<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/hoikay/albums/72177720325454524" title="Japan 2025"><img src="https://live.staticflickr.com/65535/54472237777_e7ba815df0_b.jpg" width="1024" height="768" alt="Japan 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/hoikay/albums/72177720325454524" title="Japan 2025"><img src="https://live.staticflickr.com/65535/54604328143_0375e25a93_h.jpg" width="1600" height="1200" alt="Japan 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
