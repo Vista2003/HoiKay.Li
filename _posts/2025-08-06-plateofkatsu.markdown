@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How a Plate of Katsu Curry Changed My Life."
+title: "How a Plate of Katsu Curry Changed My Life"
 date: 2025-08-06
 categories: Japanese
 description: Documenting how a plate of Katsu Curry changed my life
