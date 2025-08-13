@@ -11,7 +11,7 @@ What would you say if I told you that a plate of katsu curry was enough to chang
 
 ![Katsu_Curry]({{site.github.url}}/assets/img/katsucurry/カツカレー.jpg)
 
-To set the stage, it was January 2024 and I was in London with a group of friends and some things happened and I was left solo in Chinatown and I was going up and down the streets to find something that tickled my fancy. My eyes caught on a place called [Tokyo Diner](https://maps.app.goo.gl/XxehGrHX4CgduRaV9)（東京ダイナー）as it served Japanese food but with one note on the menu that peaked my interest 「全てのスタッフが日本語を話せます」 (All our staff speak Japanese). 
+To set the stage, it was January 2024 and I was in London with a group of friends and some things happened and I was left solo in Chinatown. I was going up and down the streets to find something that tickled my fancy. My eyes caught on a place called [Tokyo Diner](https://maps.app.goo.gl/XxehGrHX4CgduRaV9)（東京ダイナー）as it served Japanese food but with one note on the menu that peaked my interest 「全てのスタッフが日本語を話せます」 (All our staff speak Japanese). 
 
 For context, I was early in my Japanese language learning journey at the time and up to that point I was drilling immersion based learning methods that were similar to AJATT (All Japanese All The Time) and at that point, I thought I knew enough to order but that was a complete unknown. But regardless of how my nerves felt that night, I got a table for one and sat down. I looked at the menu and found カツカレー (Katsu Curry) on the menu and I knew it was a good option to order but in that moment, I was unsure if I sure order in English or Japanese.
 
