@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Thank you Windows 10"
+date: 2025-10-14
+categories: Windows
+description: The end of a Windows 10 era (kinda)
+author: Hoi Kay Li
+---
+
+Day 0 of the day that Microsoft led us to believe would never happen back in 2015 has finally arrived: **Windows 10 support has officially ended.**
+
+For the ~40% of PCs that are still running this OS, what can you do?
+
+## Upgrade to Windows 11
+While this is the recommended route for supported hardware, this is one I will not be taking. **Windows 10 was the last time that the PC felt personal** and I will be continuing to be running Windows 10 for a few more months at least. For those on supported hardware (usually PCs purchased after 2017), you can find a Windows 11 upgrade prompt in your Windows Update section in Settings.
+
+## Windows 10 Extended Security Updates (ESU) (1 year - consumer)
+This is the option I will be taking for now. This is a free/low cost extension to Windows 10 updates until **October 2026** offered to all consumers, you'll be able to find this option in your **Windows Update** page as well. This is partly why I’m not saying goodbye to Windows 10 just yet, it’s not dead quite yet.
+
+## Windows 10 ESUs (commercial) and LTSC
+Businesses can continue to get Windows 10 updates (paid) until 2028 through the Extended Security Updates program. This would ensure security updates until **2028** though this is an expensive route but does ensure Windows 10 to continue to be in action until at least 2028. Regardless of ESU status, **Microsoft Defender** virus definitions and **Microsoft Edge** support (this will presumably extend to Chromium support, so browsers like Google Chrome, Brave and Opera are likely to be covered too) also are planned to end in 2028.
+
+Windows 10 also had various **Long Term Service Branch (LTSB)** and **Long Term Service Channel (LTSC)** versions that will remain supported. Some users may choose to switch to them like what happened for the Windows 7 and Windows XP end of support events for longer support. The key dates are:
+
+* Windows 10 LTSB 2016 - 13th October 2026 (same as Windows 10 consumer ESUs)
+* Windows 10 LTSC 2019 - 9th January 2029
+* Windows 10 LTSC 2021 - 12th January 2027
+* Windows 10 LTSC 2021 IoT - 13th January 2032
+
+## Switch away from Windows 
+This is ultimately the plan for myself, I plan to move to Debian Linux but that's not the only option for people leaving Windows.
+Other viable choices include Apple macOS, Google’s ChromeOS (and ChromeOS Flex), as well as various Linux distributions like Linux Mint, Ubuntu, or Fedora. These are perfect for those looking to ditch Microsoft but want to keep a PC.
+
+# Why Windows 10 was meant to be the last version
+Some people like to claim that Microsoft never intended Windows 10 to be the final version of Windows, but I’d argue otherwise. There’s strong evidence from the time suggesting they did, or at least wanted us to believe so.
+
+Many dismiss the famous 2015 “last version of Windows” comment as coming from a random Microsoft developer. However, that’s not accurate.
+Looking at an article from [the Verge](https://www.theverge.com/2015/5/7/8568473/windows-10-last-version-of-windows) in May 2015, the statement came from Jerry Nixon, a Microsoft "developer evangelist" who said it at an offically sanctioned Microsoft Ignite Conference. The quote from the time was that "Right now we’re releasing Windows 10, and because Windows 10 is the last version of Windows, we’re all still working on Windows 10.". When Verge journalist Tom Warren pressed Microsoft for clarification, a spokesperson responded: "Recent comments at Ignite about Windows 10 are reflective of the way Windows will be delivered as a service bringing new innovations and updates in an ongoing manner, with continuous value for our consumer and business customers," in a statement to the Verge.
+
+## Advertising also reinforced this idea
+Microsoft’s own marketing at the time hinted that Windows 10 was built to last.
+
+In the *"A More Human Way to Do"* campaign, the narration claimed that “as they grow and get better at things, their technology will too” which clearly referencing Windows as a Service. The ad also said, &&"They’ll do things their parents never dreamed of, because these kids will grow up with Windows 10," implying a generational timespan for the OS.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-1dIB2rlAY?si=EpZcPrpn6Lf3Ak6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Even the Windows 10 OS-tan mascot in Japan, Toko Madobe（窓辺とおこ）who time traveled from [100 years in the future](https://news.softpedia.com/news/the-windows-10-mascot-finally-has-a-name-touko-madobe-488754.shtml) to join us in 2015 for Windows 10 which is a symbolic statement about the software's longevity. 
+
+Even without explicit promises, Microsoft’s actions spoke volumes. The gap between Windows 10 and Windows 11 was the longest gap between Windows releases. The gap between the release of Windows 10 to Windows 11 was 2,260 days. This is the longest gap in history, even beating the Windows XP and Windows Vista gap of 1,923 days by a significate margin. While the Longhorn/Vista development cycle was notoriously chaotic, Windows 11 wasn’t even on most people’s radar until 2021.
+
+### So, what changed? Why did Windows 10's life ultimately get cut short?
+My theory would be, it's down to the COVID-19 pandemic of 2020. 
+
+During this era, PC sales jumped to numbers that were not seen [since 2009](https://www.statista.com/chart/12578/global-pc-shipments/). I would hazard a guess that Microsoft either seeing the writing on the wall to need to sustain PC sales after this jump or from pressure from the OEMs, led to the rushed creation of Windows 11. 
+Windows 11 on launch was a very lackluster operating system and didn't contain many new features compared to Windows 10. We could also look at the number of new features being added to Windows 10 in late 2020 - early 2021 drying up, which in my view is Microsoft then moving focus away from Windows 10 towards Windows 11. 
+
+This is only a theory but I would say it's highly plausible that this is the case. It also helps to explain another reason for the high system requirements, which conveniently nudged people towards buying new PCs.
+
+## To conclude
+
+Thank you, Windows 10. 
+
+While today isn’t the end of our journey together, it does mark the end of an era. One that oversaw the rise of a resurgent AMD, the start of ray tracing and the rise (and fall) of VR as well as the rise of AI.
