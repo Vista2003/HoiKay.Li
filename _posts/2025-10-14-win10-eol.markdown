@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thank you Windows 10"
+title: "Thank you, Windows 10"
 date: 2025-10-14
 categories: Windows
 description: The end of a Windows 10 era (kinda)
@@ -35,7 +35,7 @@ Other viable choices include Apple macOS, Google’s ChromeOS (and ChromeOS Flex
 Some people like to claim that Microsoft never intended Windows 10 to be the final version of Windows, but I’d argue otherwise. There’s strong evidence from the time suggesting they did, or at least wanted us to believe so.
 
 Many dismiss the famous 2015 “last version of Windows” comment as coming from a random Microsoft developer. However, that’s not accurate.
-Looking at an article from [the Verge](https://www.theverge.com/2015/5/7/8568473/windows-10-last-version-of-windows) in May 2015, the statement came from Jerry Nixon, a Microsoft "developer evangelist" who said it at an offically sanctioned Microsoft Ignite Conference. The quote from the time was that "Right now we’re releasing Windows 10, and because Windows 10 is the last version of Windows, we’re all still working on Windows 10.". When Verge journalist Tom Warren pressed Microsoft for clarification, a spokesperson responded: "Recent comments at Ignite about Windows 10 are reflective of the way Windows will be delivered as a service bringing new innovations and updates in an ongoing manner, with continuous value for our consumer and business customers," in a statement to the Verge.
+Looking at an article from [the Verge](https://www.theverge.com/2015/5/7/8568473/windows-10-last-version-of-windows) in May 2015, the statement came from Jerry Nixon, a Microsoft "developer evangelist" who said it at an offically sanctioned Microsoft Ignite Conference. The quote from the time was that *"Right now we’re releasing Windows 10, and because Windows 10 is the last version of Windows, we’re all still working on Windows 10."*. When Verge journalist Tom Warren pressed Microsoft for clarification, a spokesperson responded: *"Recent comments at Ignite about Windows 10 are reflective of the way Windows will be delivered as a service bringing new innovations and updates in an ongoing manner, with continuous value for our consumer and business customers,"* in a statement to the Verge.
 
 ## Advertising also reinforced this idea
 Microsoft’s own marketing at the time hinted that Windows 10 was built to last.
@@ -49,7 +49,7 @@ Even the Windows 10 OS-tan mascot in Japan, Toko Madobe（窓辺とおこ）who 
 Even without explicit promises, Microsoft’s actions spoke volumes. The gap between Windows 10 and Windows 11 was the longest gap between Windows releases. The gap between the release of Windows 10 to Windows 11 was 2,260 days. This is the longest gap in history, even beating the Windows XP and Windows Vista gap of 1,923 days by a significate margin. While the Longhorn/Vista development cycle was notoriously chaotic, Windows 11 wasn’t even on most people’s radar until 2021.
 
 ### So, what changed? Why did Windows 10's life ultimately get cut short?
-My theory would be, it's down to the COVID-19 pandemic of 2020. 
+My theory would be, it's down to the COVID-19 pandemic back in 2020. 
 
 During this era, PC sales jumped to numbers that were not seen [since 2009](https://www.statista.com/chart/12578/global-pc-shipments/). I would hazard a guess that Microsoft either seeing the writing on the wall to need to sustain PC sales after this jump or from pressure from the OEMs, led to the rushed creation of Windows 11. 
 Windows 11 on launch was a very lackluster operating system and didn't contain many new features compared to Windows 10. We could also look at the number of new features being added to Windows 10 in late 2020 - early 2021 drying up, which in my view is Microsoft then moving focus away from Windows 10 towards Windows 11. 
