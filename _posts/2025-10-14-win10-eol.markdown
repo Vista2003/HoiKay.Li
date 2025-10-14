@@ -18,7 +18,9 @@ While this is the recommended route for supported hardware, this is one I will n
 This is the option I will be taking for now. This is a free/low cost extension to Windows 10 updates until **October 2026** offered to all consumers, you'll be able to find this option in your **Windows Update** page as well. This is partly why I’m not saying goodbye to Windows 10 just yet, it’s not dead quite yet.
 
 ## Windows 10 ESUs (commercial) and LTSC
-Businesses can continue to get Windows 10 updates (paid) until **2028** through the Extended Security Updates program. This would ensure security updates until **2028** though this is an expensive route but does ensure Windows 10 to continue to be in action until at least 2028. Regardless of ESU status, **Microsoft Defender** virus definitions and **Microsoft Edge** support (this will presumably extend to Chromium support, so browsers like Google Chrome, Brave and Opera are likely to be covered too) also are planned to end in 2028.
+Businesses can continue to receive Windows 10 updates (paid) until **October 2028** through the Extended Security Updates program. This is an expensive route, but it ensures that Windows 10 remains in active use until at least **October 2028**.
+
+Regardless of ESU status, **Microsoft Defender** virus definitions and **Microsoft Edge** support (this will presumably extend to Chromium support, so browsers like Google Chrome, Brave and Opera are likely to be covered too) also are planned to end in 2028.
 
 Windows 10 also had various **Long Term Service Branch (LTSB)** and **Long Term Service Channel (LTSC)** versions that will remain supported. Some users may choose to switch to them like what happened for the Windows 7 and Windows XP end of support events for longer support. The key dates are:
 
