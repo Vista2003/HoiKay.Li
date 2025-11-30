@@ -3,9 +3,10 @@ layout: post
 title: "Thank you, Windows 10"
 date: 2025-10-14
 categories: Windows
-description: The end of a Windows 10 era (kinda)
+description: The end of the Windows 10 era (kinda)
 author: Hoi Kay Li
 ---
+{% include toc.md %}
 
 Day 0 of the day that Microsoft led us to believe would never happen back in 2015 has finally arrived: **Windows 10 support has officially ended.**
 
@@ -59,7 +60,7 @@ Windows 11 on launch was a very lackluster operating system and didn't contain m
 
 This is only a theory but I would say it's highly plausible that this is the case. It also helps to explain another reason for the high system requirements, which conveniently nudged people towards buying new PCs.
 
-## To conclude
+# To conclude
 
 Thank you, Windows 10. 
 

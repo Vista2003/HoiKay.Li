@@ -84,3 +84,15 @@ hydejack:
     dynamic: true
     icon:    true
     always:  false
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      hide_description: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      hide_description: true
