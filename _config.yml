@@ -78,11 +78,15 @@ author:
   github: vista2003
 
   social:
+    github: vista2003
+    email:
+      url: "mailto:website@hoikay.li"
+      name: Email
+      icon: fa-envelope
     flickr:
       url: https://www.flickr.com/photos/hoikay/
       name: Flickr
       icon: fa-flickr
-
 
 accent_image: /assets/sidebar.jpg
 
