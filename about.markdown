@@ -13,5 +13,5 @@ So while this random island on the internet can be a bit random, I hope you enjo
 <br>
 <br>
 <br>
-The photo used for the sidebar is [The Green Enigma](https://flickr.com/photos/hoikay/54604328143/).
+The photo used for the sidebar is [The Green Enigma](https://flickr.com/photos/hoikay/54604328143/) taken by myself in Osaka, Japan.
 © Hoi Kay Li 2025 - All Rights Reserved.
