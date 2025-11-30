@@ -6,6 +6,7 @@ categories: Windows
 description: The end of a Windows 10 era (kinda)
 author: Hoi Kay Li
 ---
+{% include toc.md %}
 
 Day 0 of the day that Microsoft led us to believe would never happen back in 2015 has finally arrived: **Windows 10 support has officially ended.**
 
