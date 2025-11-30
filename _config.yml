@@ -84,3 +84,4 @@ hydejack:
     dynamic: true
     icon:    true
     always:  false
+hide_description: true
