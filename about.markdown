@@ -10,5 +10,3 @@ It began with technology, but over time it drifted into other areas that catch m
 
 So while this random island on the internet can be a bit random, I hope you enjoy your stay as I leave my tiny mark on the world.
 
-
-© Hoi Kay Li 2021 - 2025 All rights reserved, unless stated otherwise. 
