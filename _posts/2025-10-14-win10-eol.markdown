@@ -60,7 +60,7 @@ Windows 11 on launch was a very lackluster operating system and didn't contain m
 
 This is only a theory but I would say it's highly plausible that this is the case. It also helps to explain another reason for the high system requirements, which conveniently nudged people towards buying new PCs.
 
-## To conclude
+# To conclude
 
 Thank you, Windows 10. 
 
