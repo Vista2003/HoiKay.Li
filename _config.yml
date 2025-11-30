@@ -78,7 +78,10 @@ author:
   github: vista2003
 
   social:
-    flickr: https://www.flickr.com/photos/hoikay/
+    flickr:
+      url: https://www.flickr.com/photos/hoikay/
+      name: Flickr
+      icon: fa-flickr
 
 
 accent_image: /assets/sidebar.jpg
