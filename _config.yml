@@ -74,9 +74,10 @@ copyright:             >
 
 author:
   name:  Hoi Kay Li
-  email: website@hoikay.li
-  github: vista2003
-  flickr: https://www.flickr.com/photos/hoikay/
+  social:
+   email: website@hoikay.li
+   github: vista2003
+   flickr: flickr@hoikay.li
 
 
 accent_image: /assets/sidebar.jpg
