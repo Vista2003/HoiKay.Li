@@ -67,3 +67,7 @@ menu:
     url:   /about/
 paginate:      10
 paginate_path: '/:num/'
+
+
+copyright:             >
+  © Hoi Kay Li 2021 - 2025 all rights reserved, unless stated otherwise. 
