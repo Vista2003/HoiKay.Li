@@ -26,6 +26,7 @@ Clearly Windows 10 isn't going to want to work with this adapter without a drive
 ## Using the adapter with Windows 8.1 32 Bit
 OK, I know this isn't the world's most favourite version of Windows though it’s the oldest supported consumer OS from Microsoft. So let’s plug it in and see how it reacts.
 ![success]({{site.github.url}}/assets/img/1p ethernet adapter review/devicemanproperties.png)
+
 And it works! <br>
 Windows 8.1 correctly identified it and installed the correct drivers for it. As we can see, this adapter is using a Corechip Semiconductor chip. So let's benchmark it!
 
