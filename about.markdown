@@ -9,4 +9,9 @@ There isn't really a focus to this website and I simply write about whatever Iâ€
 It began with technology, but over time it drifted into other areas that catch my interest and curiosity. <br>
 
 So while this random island on the internet can be a bit random, I hope you enjoy your stay as I leave my tiny mark on the world.
-
+<br>
+<br>
+<br>
+<br>
+The photo used for the sidebar is [The Green Enigma](https://flickr.com/photos/hoikay/54604328143/).
+Â© Hoi Kay Li 2025 - All Rights Reserved.
