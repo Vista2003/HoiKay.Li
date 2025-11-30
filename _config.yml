@@ -80,8 +80,10 @@ author:
 accent_image: /assets/sidebar.jpg
 
 hydejack:
-  hide_description: true
   dark_mode:
     dynamic: true
     icon:    true
     always:  false
+default:
+  values:
+    hide_description: true
