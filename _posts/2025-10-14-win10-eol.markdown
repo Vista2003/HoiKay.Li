@@ -24,6 +24,7 @@ Regardless of ESU status, **Microsoft Defender** virus definitions and **Microso
 
 Windows 10 also had various **Long Term Service Branch (LTSB)** and **Long Term Service Channel (LTSC)** versions that will remain supported. Some users may choose to switch to them like what happened for the Windows 7 and Windows XP end of support events for longer support. The key dates are:
 
+* ~~Windows 10 LTSB 2015 - 14th October 2025 (shares the same date as Windows 10 General Availability Channel (GAC))~~
 * Windows 10 LTSB 2016 - 13th October 2026 (same as Windows 10 consumer ESUs)
 * Windows 10 LTSC 2019 - 9th January 2029
 * Windows 10 LTSC 2021 - 12th January 2027
@@ -42,7 +43,7 @@ Looking at an article from [the Verge](https://www.theverge.com/2015/5/7/8568473
 ## Advertising also reinforced this idea
 Microsoft’s own marketing at the time hinted that Windows 10 was built to last.
 
-In the *"A More Human Way to Do"* campaign, the narration claimed that “as they grow and get better at things, their technology will too” which clearly referencing Windows as a Service. The ad also said, &&"They’ll do things their parents never dreamed of, because these kids will grow up with Windows 10," implying a generational timespan for the OS.
+In the *"A More Human Way to Do"* campaign, the narration claimed that “as they grow and get better at things, their technology will too” which clearly referencing Windows as a Service. The ad also said, "They’ll do things their parents never dreamed of, because these kids will grow up with Windows 10," implying a generational timespan for the OS.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-1dIB2rlAY?si=EpZcPrpn6Lf3Ak6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
