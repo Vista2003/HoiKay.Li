@@ -85,5 +85,7 @@ hydejack:
     icon:    true
     always:  false
 default:
+- scope:
+      type:            posts
   values:
-    hide_description: true
+      hide_description: true
