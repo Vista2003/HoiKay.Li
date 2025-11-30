@@ -62,7 +62,7 @@ github:
 
 menu:
   - title: Home
-    url:   https://hoikay.li/
+    url:   /
   - title: About
     url:   /about/
 paginate:      10
