@@ -40,6 +40,7 @@ Remember Poundworld?
 | Location 📌| Pendle Rise Shopping Centre, Nelson, UK|
 | Shooting date 📅 | August 2023 |
 | Licensing 📝| <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The photos showing Pendle Rise Shopping Centre on this page are licensed under a<br> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. <br> If you wish to use any these photos on this page for commercial use, <br>please contact me at the email address in the sidebar. Please note that the sidebar photo is not licenced under CC.|
+
 <br>
 <br>
 
