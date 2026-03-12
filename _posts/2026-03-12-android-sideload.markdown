@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Rock and the Hard Place - Android Sideloading"
+title: "Between a Rock and a Sideload"
 date: 2026-03-12
 categories: Android
 description: Discussing the end of Android sideloading
