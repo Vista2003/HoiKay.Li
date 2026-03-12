@@ -1,3 +1,5 @@
+<script src="https://keepandroidopen.org/banner.js"></script>
+
 ---
 layout: post
 title: "The Rock and the Hard Place - Android Sideloading"
