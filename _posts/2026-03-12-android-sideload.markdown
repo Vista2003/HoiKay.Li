@@ -6,8 +6,7 @@ categories: Android
 description: Discussing the end of Android sideloading
 author: Hoi Kay Li
 ---
-<div id="my-banner"></div>
-<script src="https://keepandroidopen.org/banner.js&size=mini&id=my-banner"></script>
+<iframe> <script src="https://keepandroidopen.org/banner.js"></script> </iframe>
 
 
 First of all, I should say that I know I'm late to this, but I think it's better late than never on this topic. 
