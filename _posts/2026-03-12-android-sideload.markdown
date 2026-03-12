@@ -8,7 +8,7 @@ author: Hoi Kay Li
 ---
 <div id="kao-container" style="position: relative; z-index: 9999; margin-top: 1rem;">
   <div id="kao-banner"></div>
-  <script src="https://keepandroidopen.org/banner.js&animation=off?id=kao-banner"></script>
+  <script src="https://keepandroidopen.org/banner.js=off?id=kao-banner&animation"></script>
 </div>
 <br>
 
