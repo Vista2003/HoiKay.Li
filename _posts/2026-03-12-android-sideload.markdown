@@ -12,9 +12,9 @@ author: Hoi Kay Li
 </div>
 <br>
 
-First of all, I should say that I know I'm late to this, but I think it's better late than never on this topic. 
+*First of all, I should say that I know I'm late to this, but I think it's better late than never on this topic.*
 
-Second of all, I've been an Android user since the Android Ice Cream Sandwich days, so I have watched the OS change and mature over the last 15 years.
+*Second of all, I've been an Android user since the Android Ice Cream Sandwich days, so I have watched the OS change and mature over the last 15 years.*
 
 To get this conversation started, I should say that **I object to Google's decision to limit sideloading on Android** that will take effect later this year. I've been a loyal Android user since the Android ICS days and have been "team stock Android" for most of it. My first Android phone, a Motorola Moto G (1st generation), was the "poor man's Nexus" back then. It was a mostly stock Android experience, and I have been team Nexus and then Pixel ever since. I've owned the Nexus 5X, Pixel 2, Pixel 4a, Pixel 7a, Pixel 8a, and Pixel 9a. Through it all, I've been enjoying the freedoms that Android provides that Apple's iOS doesn't. These freedoms include, but are not limited to, the ability to **sideload apps like F-Droid**, wireless channel scanning, and having full file system access on the device.
 
