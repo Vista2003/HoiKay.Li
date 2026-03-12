@@ -6,8 +6,9 @@ categories: Android
 description: Discussing the end of Android sideloading
 author: Hoi Kay Li
 ---
-<div markdown="0">
-  <script src="https://keepandroidopen.org/banner.js"></script>
+<div id="kao-container" style="position: relative; z-index: 9999; margin-top: 1rem;">
+  <div id="kao-banner"></div>
+  <script src="https://keepandroidopen.org/banner.js?id=kao-banner"></script>
 </div>
 
 
