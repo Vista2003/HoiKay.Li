@@ -1,5 +1,3 @@
-<script src="https://keepandroidopen.org/banner.js"></script>
-
 ---
 layout: post
 title: "The Rock and the Hard Place - Android Sideloading"
@@ -8,6 +6,9 @@ categories: Android
 description: Discussing the end of Android sideloading
 author: Hoi Kay Li
 ---
+
+<script src="https://keepandroidopen.org/banner.js"></script>
+
 
 First of all, I should say that I know I'm late to this, but I think it's better late than never on this topic. 
 
