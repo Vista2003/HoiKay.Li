@@ -10,7 +10,7 @@ author: Hoi Kay Li
   <div id="kao-banner"></div>
   <script src="https://keepandroidopen.org/banner.js?id=kao-banner"></script>
 </div>
-
+<br>
 
 First of all, I should say that I know I'm late to this, but I think it's better late than never on this topic. 
 
