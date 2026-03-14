@@ -13,5 +13,10 @@ So while this random island on the internet can be a bit random, I hope you enjo
 <br>
 <br>
 <br>
+If you want to support me, I would be grateful for a small donation for my work which you can do by [clicking here](https://buymeacoffee.com/hoikay). Doing so does not grant you to anything extra, it's just a way for me to know I'm not shouting into the void.
+<br>
+<br>
+<br>
+<br>
 The photo used for the sidebar is [The Green Enigma](https://flickr.com/photos/hoikay/54604328143/) taken by myself in Osaka, Japan. <br>
 © Hoi Kay Li 2025 - All Rights Reserved.
