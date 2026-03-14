@@ -13,7 +13,7 @@ So while this random island on the internet can be a bit random, I hope you enjo
 <br>
 <br>
 <br>
-If you want to support me, I would be grateful for a small donation for my work which you can do by [clicking here](https://buymeacoffee.com/hoikay). Doing so does not grant you to anything extra, it's just a way for me to know I'm not shouting into the void.
+If you want to support me, I would be grateful for a small donation for my work which you can do by [clicking here](https://buymeacoffee.com/hoikay). Doing so does not grant you access to anything extra, it's just a way for me to know I'm not shouting into the void.
 <br>
 <br>
 <br>
