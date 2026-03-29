@@ -10,8 +10,8 @@ author: Hoi Kay Li
   <div id="kao-banner"></div>
   <script> src="https://keepandroidopen.org/banner.js?id=kao-banner&animation=off"></script>
 </div>
-<br>
 
+<br>
 UPDATE: GOOGLE HAS CLARIFIED THE SITUATION, please see below for details.
 
 *First of all, I should say that I know I'm late to this, but I think it's better late than never on this topic.*
@@ -27,6 +27,6 @@ Going forward, the lockdown of sideloading apps would deny millions of people th
 For more information on the Android Lockdown, please see [keepandroidopen.org](https://keepandroidopen.org/)
 
 <HR>
-EDIT: 29th March 2026 - Google have clarified the changes and it seems like a fair compromise. A list of these changes can be found on the [Android Developers Website](https://developer.android.com/developer-verification/guides/faq) which details that ADB is not changing and access to sideloading can be unlocked after a 24 hour cooldown which does carry forward to new devices. 
+EDIT: 29th March 2026 - Google have clarified the changes and it seems like a fair compromise. A list of these changes can be found on the [Android Developers Blog](https://android-developers.googleblog.com/2026/03/android-developer-verification.html) which details that ADB is not changing and access to sideloading can be unlocked after a 24 hour cooldown which does carry forward to new devices. 
 
 This blog post will stay up as is as an historical artifact.
